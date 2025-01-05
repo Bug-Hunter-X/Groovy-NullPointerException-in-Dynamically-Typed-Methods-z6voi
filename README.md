@@ -1,0 +1,1 @@
+This repository demonstrates a common, yet subtle, error in Groovy: unexpected NullPointerExceptions that arise from the dynamic nature of the language.  The `calculate` function doesn't explicitly handle `null` input, causing an exception. The solution showcases proper null checks to prevent this.
